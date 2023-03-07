@@ -1,5 +1,5 @@
 ## Gif
-<img src="https://github.com/alpersargin42/alpersargin42/blob/main/Github_gif.gif" width="1080" height="256" />
+<img src="https://github.com/alpersargin42/alpersargin42/blob/main/Github_gif.gif" width="1080" height="512" />
 
  ## Some Information
 Skills: Python / Asp Net / JS / HTML / CSS
