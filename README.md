@@ -1,7 +1,7 @@
 ### Hi there 👋, Alper Sargın
 ![I am Software Developer](https://media.licdn.com/dms/image/C4E16AQGgZb8K_DULGg/profile-displaybackgroundimage-shrink_350_1400/0/1649100810975?e=1683763200&v=beta&t=3EsJTnAovYkdmJQTso7q0k-z2sEo8mqs3cDDetSdkAI)
 
- ### I am Software Developer
+ ## I am Software Developer
 
 Skills: Python / Asp Net / JS / HTML / CSS
 
