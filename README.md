@@ -14,7 +14,8 @@ Skills: Python / Asp Net / JS / HTML / CSS
 [![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
 [![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)<br/>
 ![Alper Sargın's github stats](https://github-readme-stats.vercel.app/api?username=alpersargin42&show_icons=true&theme=dracula&hide=stars,issues)
-[![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=alpersargin42&hide_progress=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=alpersargin42&hide_progress=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alpersargin42&theme=dark)](https://git.io/streak-stats)
 
 
 ## Kanallar
