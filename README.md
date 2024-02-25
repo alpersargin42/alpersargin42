@@ -9,7 +9,7 @@ Skills: Python / Asp Net / JS / HTML / CSS
 - 🤔 I’m looking for help with Artificial intelligence 
 - 📫 How to research me: [My Blog Sites](https://sarginalper.blogspot.com/)
 
-## Durum
+## Status
 <p align="center">
   <a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/stargazers">
     <img src="https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg" alt="GitHub stars">
@@ -38,7 +38,7 @@ Skills: Python / Asp Net / JS / HTML / CSS
   </a>
 </p>
 
-## Kanallar
+## Channels
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alper-sarg%C4%B1n-b14125201/)
 [![](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aaavf)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alper_sargn/)
