@@ -21,13 +21,30 @@ Skills: Python / Asp Net / JS / HTML / CSS
 
 
 ## Kanallar
-[<img src='https://simpleicons.org/icons/github.svg' alt='github' height='40'>](https://github.com/alpersargin42)
-[<img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alper-sarg%C4%B1n-b14125201/)
-[<img src='https://simpleicons.org/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/aaavf)
-[<img src='https://simpleicons.org/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alper_sargn/)
-[<img src='https://simpleicons.org/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sargin_alper)
-[<img src='https://simpleicons.org/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC5QR34Sko4xDc8ydMHAwKVA)
-[<img src='https://simpleicons.org/icons/blogger.svg' alt='blogger' height='40'>](https://sarginalper.blogspot.com/)
+<div style="background-color: white; padding: 10px; border-radius: 10px;">
+    <a href="https://github.com/alpersargin42" style="text-decoration: none;">
+        <img src="https://simpleicons.org/icons/github.svg" alt="github" height="40" style="background-color: white; padding: 5px; border-radius: 5px;">
+    </a>
+    <a href="https://www.linkedin.com/in/alper-sarg%C4%B1n-b14125201/" style="text-decoration: none;">
+        <img src="https://simpleicons.org/icons/linkedin.svg" alt="linkedin" height="40" style="background-color: white; padding: 5px; border-radius: 5px;">
+    </a>
+    <a href="https://www.facebook.com/aaavf" style="text-decoration: none;">
+        <img src="https://simpleicons.org/icons/facebook.svg" alt="facebook" height="40" style="background-color: white; padding: 5px; border-radius: 5px;">
+    </a>
+    <a href="https://www.instagram.com/alper_sargn/" style="text-decoration: none;">
+        <img src="https://simpleicons.org/icons/instagram.svg" alt="instagram" height="40" style="background-color: white; padding: 5px; border-radius: 5px;">
+    </a>
+    <a href="https://twitter.com/sargin_alper" style="text-decoration: none;">
+        <img src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="40" style="background-color: white; padding: 5px; border-radius: 5px;">
+    </a>
+    <a href="https://www.youtube.com/channel/UC5QR34Sko4xDc8ydMHAwKVA" style="text-decoration: none;">
+        <img src="https://simpleicons.org/icons/youtube.svg" alt="YouTube" height="40" style="background-color: white; padding: 5px; border-radius: 5px;">
+    </a>
+    <a href="https://sarginalper.blogspot.com/" style="text-decoration: none;">
+        <img src="https://simpleicons.org/icons/blogger.svg" alt="blogger" height="40" style="background-color: white; padding: 5px; border-radius: 5px;">
+    </a>
+</div>
+
 
 
 
