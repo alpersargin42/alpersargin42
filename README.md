@@ -39,10 +39,11 @@ Skills: Python / Asp Net / JS / HTML / CSS
 </p>
 
 ## Kanallar
-[<img src='https://simpleicons.org/icons/github.svg' alt='github' height='40'>](https://github.com/alpersargin42)
-[<img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alper-sarg%C4%B1n-b14125201/)
-[<img src='https://simpleicons.org/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/aaavf)
-[<img src='https://simpleicons.org/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alper_sargn/)
-[<img src='https://simpleicons.org/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sargin_alper)
-[<img src='https://simpleicons.org/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC5QR34Sko4xDc8ydMHAwKVA)
-[<img src='https://simpleicons.org/icons/blogger.svg' alt='blogger' height='40'>](https://sarginalper.blogspot.com/)
+[![](https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/alpersargin42)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alper-sarg%C4%B1n-b14125201/)
+[![](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aaavf)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alper_sargn/)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sargin_alper)
+[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5QR34Sko4xDc8ydMHAwKVA)
+[![](https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://sarginalper.blogspot.com/)
+
