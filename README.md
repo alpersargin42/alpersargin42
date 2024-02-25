@@ -10,7 +10,6 @@ Skills: Python / Asp Net / JS / HTML / CSS
 - 📫 How to research me: [My Blog Sites](https://sarginalper.blogspot.com/)
 
 ## Durum
-[![Anurag'ın GitHub istatistikleri](https://github-readme-stats-brundabharadwaj.vercel.app/api?username=alpersargin42&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=alpersargin42&hide_progress=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
