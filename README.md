@@ -9,11 +9,10 @@ Skills: Python / Asp Net / JS / HTML / CSS
 - 🤔 I’m looking for help with Artificial intelligence 
 - 📫 How to research me: [My Blog Sites](https://sarginalper.blogspot.com/)
 
-## Status
-[![Anurag's GitHub stats](https://github-readme-stats-brundabharadwaj.vercel.app/api?username=alpersargin42&show_icons=true&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpersargin42&hide_progress=true&show_icons=true&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)
+## Durum
+[![Anurag'ın GitHub istatistikleri](https://github-readme-stats-brundabharadwaj.vercel.app/api?username=alpersargin42&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=alpersargin42&hide_progress=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
