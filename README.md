@@ -10,10 +10,14 @@ Skills: Python / Asp Net / JS / HTML / CSS
 - 📫 How to research me: [My Blog Sites](https://sarginalper.blogspot.com/)
 
 ## Durum
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-alpersargin42.vercel.app/api?username=alpersargin42&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-alpersargin42.vercel.app/api?username=alpersargin42&show_icons=true">
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats-alpersargin42.vercel.app/api?username=alpersargin42&show_icons=true" alt="GitHub İstatistikleri">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-alpersargin42.vercel.app/api?username=alpersargin42&theme=dark&show_icons=true" alt="GitHub İstatistikleri (Karanlık Tema)">
+</div>
+
 [![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=alpersargin42&hide_progress=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
