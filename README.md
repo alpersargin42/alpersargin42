@@ -11,6 +11,9 @@ Skills: Python / Asp Net / JS / HTML / CSS
 
 ## Durum
 [![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=alpersargin42&hide_progress=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
+[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
 
 
 
