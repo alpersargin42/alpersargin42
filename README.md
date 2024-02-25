@@ -10,13 +10,33 @@ Skills: Python / Asp Net / JS / HTML / CSS
 - 📫 How to research me: [My Blog Sites](https://sarginalper.blogspot.com/)
 
 ## Durum
-[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
-[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)<br/>
-![Alper Sargın's github stats](https://github-readme-stats.vercel.app/api?username=alpersargin42&show_icons=true&theme=dracula&hide=stars,issues)
-[![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=alpersargin42&hide_progress=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alpersargin42&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/stargazers">
+    <img src="https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network">
+    <img src="https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network">
+    <img src="https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue" alt="GitHub contributors">
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alpersargin42&show_icons=true&theme=dracula&hide=stars,issues" alt="Alper Sargın's github stats">
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpersargin42&hide_progress=true&show_icons=true&theme=radical" alt="En Çok Kullanılan Diller">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=alpersargin42&theme=dark" alt="GitHub Streak">
+  </a>
+</p>
 
 ## Kanallar
 [<img src='https://simpleicons.org/icons/github.svg' alt='github' height='40'>](https://github.com/alpersargin42)
