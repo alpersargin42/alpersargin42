@@ -4,7 +4,7 @@
  ## Some Information
 Skills: Python / Asp Net / JS / HTML / CSS
 
-- 🔭 I’m currently working on  Yazelsan Türkiye 
+- 🔭 I’m currently working on  Yazelab Türkiye 
 - 🌱 I’m currently learning Python,ASP .Net Core,Frontend Launguage's(HTML,CSS,JS)
 - 🤔 I’m looking for help with Artificial intelligence 
 - 📫 How to research me: [My Blog Sites](https://sarginalper.blogspot.com/)
